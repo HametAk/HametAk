@@ -1,5 +1,5 @@
 <h1 align="center"> Hey I am
-  <a style="text-decoration: none" target="_blank" href="https://www.hamet.dev">Hamet </a>👋🏼
+  <a href="https://www.hamet.dev">Hamet </a>👋🏼
 </h1>
 
 <img width="3000" height="200" src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=10&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=Full+Time+DevOps+Engineer;In+love+with+self-hosting+%F0%9F%A4%8D;Coding+things+fast%2C+faster." alt="Typing SVG" />
